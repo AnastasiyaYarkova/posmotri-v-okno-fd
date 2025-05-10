@@ -249,7 +249,7 @@ ol {
 }
 
 .title {
-  font-family: Oswald;
+  font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
   line-height: 94%;
@@ -261,7 +261,7 @@ ol {
 }
 
 .content__card-link {
-  display:block;
+  display: block;
   text-decoration: none;
   color: rgba(255, 255, 255, 1);
 }
@@ -269,7 +269,7 @@ ol {
 .content__card-link_current {
   background-color: #545050;
 }
-.content__card-link_current:active {
+.content__card-link:active {
   background-color: #545050;
 }
 
